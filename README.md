@@ -33,7 +33,7 @@ En 1986, ya como ingeniero, tuve mi primer contacto con un computador, era un Mi
 	Al no encontrarse un reemplazo para el PLT, se comienza a desarrollar uno propio, el BWTerm.<br/>
 	Se comienzan a desarrollar aplicaciones bajo VB6, BWPicLan, AdmSuc y SIGCom.<br/><br/>
 2004	Continúa la búsqueda de un SO que reemplace al AP-Pro, ya que Pick Systems discontinuó el D3 ProPlus. Las versiones de D3, sobre Linux o Windows, fueron descartadas porque era complejo de administrar y mantener y con una falta de control de calidad en cada nueva versión.<br/>
-	Finalmente se elige al UniVerse en su versión 10.1, el cual se activa con una misma clave y se dispone de varias instalaciones con las que se pueden administrar muchos usuarios.<br/>
+	Finalmente se elige al UniVerse en su versión 10.1, el cual es mas simple de administrar y mantener.<br/>
 	Comienzo del desarrollo del BWList, BWModemXY, BWPrintServer, BWSQL y BWUniVerse.<br/><br/>
 2005	Se migran varios utilitarios, BCG, BPE, CFE, CFH. La versión del generador para UniVerse se bautizó como GSU.<br/>
 	Se cambia en las aplicaciones AdmSuc y SIGCom, la base de datos Pick por UniVerse y se adopta el componente BWUniVerse en lugar del BWPicLan.<br/><br/>
