@@ -32,12 +32,12 @@ En 1986, ya como ingeniero, tuve mi primer contacto con un computador, era un Mi
 	Se desarrolló el PSS como servicio, bajo AP-Pro, para el BWPicLan.<br/>
 	Al no encontrarse un reemplazo para el PLT, se comienza a desarrollar uno propio, el BWTerm.<br/>
 	Se comienzan a desarrollar aplicaciones bajo VB6, BWPicLan, AdmSuc y SIGCom.<br/><br/>
-2004	Continúa la búsqueda de un SO que reemplace al AP-Pro, ya que Pick Systems discontinuó el D3 ProPlus. Las versiones de D3, sobre Linux o Windows, fueron descartadas porque no había forma de activar el producto si no se disponía de la clave de activación, proporcionada on-line, por Pick Systems.<br/>
+2004	Continúa la búsqueda de un SO que reemplace al AP-Pro, ya que Pick Systems discontinuó el D3 ProPlus. Las versiones de D3, sobre Linux o Windows, fueron descartadas porque era complejo de administrar y mantener y con una falta de control de calidad en cada nueva versión.<br/>
 	Finalmente se elige al UniVerse en su versión 10.1, el cual se activa con una misma clave y se dispone de varias instalaciones con las que se pueden administrar muchos usuarios.<br/>
 	Comienzo del desarrollo del BWList, BWModemXY, BWPrintServer, BWSQL y BWUniVerse.<br/><br/>
 2005	Se migran varios utilitarios, BCG, BPE, CFE, CFH. La versión del generador para UniVerse se bautizó como GSU.<br/>
 	Se cambia en las aplicaciones AdmSuc y SIGCom, la base de datos Pick por UniVerse y se adopta el componente BWUniVerse en lugar del BWPicLan.<br/><br/>
-2006	Se comienzan a migrar las sucursales de la empresa Remolino a UniVerse. Las sucursales en AP-Pro utilizaban un producto para comunicarse por Modem con el depósito (PowerComm). Para complementar la falta de esa versión del producto en UniVerse se creó el YMP (YModem Protocol), ya que PowerComm podía comunicarse mediante protocolo YModem.
+2006	Se comienzan a migrar las sucursales de la empresa Remolino a UniVerse. Las sucursales en AP-Pro utilizaban un producto para comunicarse por Modem con el depósito (PowerComm). Para complementar la falta de esa versión del producto, en UniVerse se creó el YMP (YModem Protocol), ya que PowerComm podía comunicarse mediante protocolo YModem.
 	Comienza el desarrollo del BWSecure.<br/><br/>
 2007	Se termina de migrar a todos los clientes a UniVerse.<br/><br/>
 2008	Se heredan los clientes de otra empresa, de los cuales solo se toman para continuar su desarrollo a Remolino (Sistema de Distribución bajo UniVerse y BWTerm y AdmSuc bajo UniVerse y VB6.) y Morini (SIGCom bajo UniVerse y VB6).<br/>
