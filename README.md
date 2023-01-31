@@ -46,6 +46,6 @@ Para el resto de los clientes solo estaba disponible un soporte básico para que
 **2009**	Mejoramiento de productos bajo UniVerse, tanto desde el emulador BWTerm como desde VB6.<br/><br/>
 **2011**	Comienzo del desarrollo del producto SFE (Servidor de Factura Electrónica). Se puede considerar finalizada la aplicación SIGCom.<br/><br/>
 **2012**	Comienza una colaboración con la empresa CeDeCo para desarrollar una aplicación propia de esa empresa bajo VB6 y MySQL.<br/><br/>
-**2020**	Se migran los productos BW3Buttons, BWActivate, BWCalendar, BWCode, BWList, BWSecure, BWTable, BWTree y BWUniVerse a VB.Net.
-**2021**	Se obtiene el título de Full Stack developer en Digital House.
+**2020**	Se migran los productos BW3Buttons, BWActivate, BWCalendar, BWCode, BWList, BWSecure, BWTable, BWTree y BWUniVerse a VB.Net.<br/><br/>
+**2021**	Se obtiene el título de Full Stack developer en Digital House.<br/><br/>
 **2022**	Se comienzan a desarrollar aplicaciones web de escritorio bajo React, Bootstrap y Material UI.
